@@ -1,0 +1,30 @@
+#mainheading {
+  color: yellow;
+  text-align: center;
+  font-size: 105px;
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-size: cover;
+}
+
+#brushes {
+  background-color: lightgreen;
+  font-size: 35px;
+}
+
+#frames {
+  background-color: pink;
+  font-size: 35px;
+}
+
+#paint {
+  background-color: skyblue;
+  font-size: 35px;
+}
+
+.tools {
+  font-weight: bold;
+}
+
+* {
+  font-family: arial;
+}
